@@ -1,0 +1,7 @@
+import com.alibaba.druid.filter.Filter;
+public class FunctionUse6465 {
+public void funcUse() {
+Filter filter = new Filter();
+filter.callableStatement_getRef(null,null,null);
+}
+}

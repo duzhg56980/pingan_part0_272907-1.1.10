@@ -1,0 +1,6 @@
+import com.alibaba.druid.util.DruidPasswordCallback;
+public class FunctionUse2246 {
+public void funcUse() {
+DruidPasswordCallback druidpasswordcallback = new DruidPasswordCallback();
+}
+}
